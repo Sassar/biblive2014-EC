@@ -9,7 +9,7 @@ import android.view.MenuItem;
 public class MainActivity extends Activity {
 	
 	//とりあえず新規作成したままのものです
-	
+	//テスト1
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
